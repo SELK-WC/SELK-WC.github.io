@@ -5,4 +5,4 @@
 
 ###Current student at Whitman College
 
-###Seeking career in Baseball Data Science
+##Seeking career in Baseball Data Science
